@@ -2,6 +2,8 @@
 
 Welcome to my comprehensive collection of statistical research and data analysis projects. This repository demonstrates the application of advanced statistical methods to solve real-world problems in engineering, marketing, and quality management using the **R programming language**.
 
+Willkommen zu meiner umfassenden Sammlung statistischer Forschungs- und Datenanalyseprojekte. Dieses Repository zeigt die Anwendung fortgeschrittener statistischer Methoden zur Lösung realer Probleme in Technik, Marketing und Qualitätsmanagement unter Verwendung der **Programmiersprache R**.
+
 ---
 
 ## 🌎 Languages / Sprachen
@@ -18,7 +20,7 @@ This repository contains a diverse range of analyses, focusing on hypothesis tes
 ### 📂 Project Directory
 
 | # | Project Folder | Statistical Methods Used | Key Objective |
-| :--- | :--- | :--- | :--- |
+|---|----------------|--------------------------|----------------|
 | 01 | ⚡ [Energy-Consumption-Analysis](./01-Energy-Consumption-Analysis) | t-Test, Wilcoxon, Shapiro-Wilk | Evaluating energy reduction methods. |
 | 02 | ✈️ [Paper-Airplane-Flight-DOE](./02-Paper-Airplane-Flight-DOE) | Factorial Design, ANOVA, DoE | Determining factors affecting flight duration. |
 | 03 | 🏭 [Supplier-Quality-Control](./03-Supplier-Quality-Control) | Chi-squared Test, Contingency Tables | Assessing supplier reliability vs. product groups. |
@@ -33,36 +35,44 @@ This repository contains a diverse range of analyses, focusing on hypothesis tes
 <a name="deutsch"></a>
 ## 🇩🇪 Portfolio-Übersicht (Deutsch)
 
-Diese Sammlung zeigt die Anwendung fortgeschrittener statistischer Methoden zur Lösung realer Probleme in den Bereichen Technik, Marketing und Qualitätsmanagement unter Verwendung der **Programmiersprache R**.
+Dieses Repository enthält eine vielfältige Sammlung statistischer Analysen mit Schwerpunkt auf Hypothesentests, Versuchsplanung (DoE) und prädiktiven Erkenntnissen. Jedes Projekt umfasst Datenaufbereitung, Annahmenprüfung und professionelle Ergebnisdokumentation.
 
 ### 📂 Projektverzeichnis
 
-* **01 Energieverbrauchsanalyse:** Bewertung von Energiesparmethoden.
-* **02 Papierflieger-DoE:** Untersuchung der Flugdauerfaktoren.
-* **03 Lieferantenqualitätsanalyse:** Bewertung der Zuverlässigkeit von Zulieferern.
-* **04 Werkzeugstandzeit-Studie:** Optimierung der Haltbarkeit von Werkzeugen.
-* **05 Marketing-Statistik:** Analyse des Verbraucherverhaltens.
-* **06 Kosten-Leistungs-Optimierung:** Effizienz-Analyse von Materialien.
-* **07 Flugleistungs-Optimierung:** Statistische Leistungsvergleiche.
-* **08 Flügeldesign-Optimierung:** Validierung aerodynamischer Verbesserungen.
+| # | Projektordner | Verwendete statistische Methoden | Hauptziel |
+|---|----------------|----------------------------------|------------|
+| 01 | ⚡ Energieverbrauchsanalyse | t-Test, Wilcoxon, Shapiro-Wilk | Bewertung von Methoden zur Reduzierung des Energieverbrauchs. |
+| 02 | ✈️ Papierflieger-DoE | Faktorielles Design, ANOVA, DoE | Bestimmung der Faktoren, die die Flugdauer beeinflussen. |
+| 03 | 🏭 Lieferantenqualitätsanalyse | Chi-Quadrat-Test, Kontingenztafeln | Bewertung der Zuverlässigkeit von Lieferanten im Vergleich zu Produktgruppen. |
+| 04 | 🔧 Werkzeugstandzeit-Studie | Kruskal-Wallis, Bartlett-Test | Optimierung der Standzeit von Produktionswerkzeugen. |
+| 05 | 📈 Marketing-Statistik | Phi-Koeffizient, Yule’s Q, Chi-Quadrat | Analyse demografischer Einflüsse auf Konsumentscheidungen. |
+| 06 | 💰 Kosten-Leistungs-Optimierung | Faktorielle ANOVA, Mehrfacheffekte | Ausgleich zwischen Materialkosten und Flugleistung. |
+| 07 | 📏 Flugleistungs-Optimierung | Power-Analyse, Unabhängiger t-Test | Vergleichende Leistungsanalyse gegenüber Wettbewerbern. |
+| 08 | 🦅 Flügeldesign-Optimierung | Wilcoxon-Mann-Whitney-Test | Validierung aerodynamischer Verbesserungen. |
 
 ---
 
 ## 🛠 Tech Stack & Tools
-* **Language:** R
-* **Reporting:** RMarkdown, LaTeX (PDF Reports)
-* **Key Libraries:** `ggplot2`, `car`, `readxl`, `pwr`
-
-## 📊 Methodology Focus
-1. **EDA:** Visualizing distributions via Boxplots and Histograms.
-2. **Assumption Verification:** Shapiro-Wilk & Levene/Bartlett Tests.
-3. **Inference:** Parametric & Non-Parametric testing strategies.
-4. **Effect Size:** Evaluating practical significance.
+- **Language / Sprache:** R  
+- **Reporting / Berichte:** RMarkdown, LaTeX (PDF Reports)  
+- **Key Libraries / Wichtige Bibliotheken:** `ggplot2`, `car`, `readxl`, `pwr`
 
 ---
 
-## 👤 Author
-**Siamak Goudarzi**
-*Statistical Data Analyst*
-*Focus: Quality Engineering & Applied Statistics*
+## 📊 Methodology Focus / Methodenschwerpunkte
+1. **EDA:** Visualizing distributions via Boxplots and Histograms.  
+   **EDA:** Visualisierung von Verteilungen mittels Boxplots und Histogrammen.  
+2. **Assumption Verification:** Shapiro-Wilk & Levene/Bartlett Tests.  
+   **Annahmenprüfung:** Shapiro-Wilk- & Levene/Bartlett-Tests.  
+3. **Inference:** Parametric & Non-Parametric testing strategies.  
+   **Inferenz:** Parametrische und nichtparametrische Testverfahren.  
+4. **Effect Size:** Evaluating practical significance.  
+   **Effektstärke:** Bewertung der praktischen Relevanz.  
+
+---
+
+## 👤 Author / Autor
+**Siamak Goudarzi**  
+*Statistical Data Analyst*  
+*Focus: Quality Engineering & Applied Statistics*  
 *Year: 2026*
