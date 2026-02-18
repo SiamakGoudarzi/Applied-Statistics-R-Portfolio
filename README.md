@@ -41,14 +41,14 @@ Dieses Repository enthält eine vielfältige Sammlung statistischer Analysen mit
 
 | # | Projektordner | Verwendete statistische Methoden | Hauptziel |
 |---|----------------|----------------------------------|------------|
-| 01 | ⚡ Energieverbrauchsanalyse | t-Test, Wilcoxon, Shapiro-Wilk | Bewertung von Methoden zur Reduzierung des Energieverbrauchs. |
-| 02 | ✈️ Papierflieger-DoE | Faktorielles Design, ANOVA, DoE | Bestimmung der Faktoren, die die Flugdauer beeinflussen. |
-| 03 | 🏭 Lieferantenqualitätsanalyse | Chi-Quadrat-Test, Kontingenztafeln | Bewertung der Zuverlässigkeit von Lieferanten im Vergleich zu Produktgruppen. |
-| 04 | 🔧 Werkzeugstandzeit-Studie | Kruskal-Wallis, Bartlett-Test | Optimierung der Standzeit von Produktionswerkzeugen. |
-| 05 | 📈 Marketing-Statistik | Phi-Koeffizient, Yule’s Q, Chi-Quadrat | Analyse demografischer Einflüsse auf Konsumentscheidungen. |
-| 06 | 💰 Kosten-Leistungs-Optimierung | Faktorielle ANOVA, Mehrfacheffekte | Ausgleich zwischen Materialkosten und Flugleistung. |
-| 07 | 📏 Flugleistungs-Optimierung | Power-Analyse, Unabhängiger t-Test | Vergleichende Leistungsanalyse gegenüber Wettbewerbern. |
-| 08 | 🦅 Flügeldesign-Optimierung | Wilcoxon-Mann-Whitney-Test | Validierung aerodynamischer Verbesserungen. |
+| 01 | ⚡ [Energieverbrauchsanalyse](./01-Energy-Consumption-Analysis) | t-Test, Wilcoxon, Shapiro-Wilk | Bewertung von Methoden zur Reduzierung des Energieverbrauchs. |
+| 02 | ✈️ [Papierflieger-DoE](./02-Paper-Airplane-Flight-DOE) | Faktorielles Design, ANOVA, DoE | Bestimmung der Faktoren, die die Flugdauer beeinflussen. |
+| 03 | 🏭 [Lieferantenqualitätsanalyse](./03-Supplier-Quality-Control) | Chi-Quadrat-Test, Kontingenztafeln | Bewertung der Zuverlässigkeit von Lieferanten im Vergleich zu Produktgruppen. |
+| 04 | 🔧 [Werkzeugstandzeit-Studie](./04-Tool-Life-Reliability-Study) | Kruskal-Wallis, Bartlett-Test | Optimierung der Standzeit von Produktionswerkzeugen. |
+| 05 | 📈 [Marketing-Statistik](./05-Marketing-Statistical-Modeling) | Phi-Koeffizient, Yule’s Q, Chi-Quadrat | Analyse demografischer Einflüsse auf Konsumentscheidungen. |
+| 06 | 💰 [Kosten-Leistungs-Optimierung](./06-Paper-Plane-Cost-Efficiency) | Faktorielle ANOVA, Mehrfacheffekte | Ausgleich zwischen Materialkosten und Flugleistung. |
+| 07 | 📏 [Flugleistungs-Optimierung](./07-Flight-Performance-Optimization) | Power-Analyse, Unabhängiger t-Test | Vergleichende Leistungsanalyse gegenüber Wettbewerbern. |
+| 08 | 🦅 [Flügeldesign-Optimierung](./08-Wing-Design-Optimization) | Wilcoxon-Mann-Whitney-Test | Validierung aerodynamischer Verbesserungen. |
 
 ---
 
